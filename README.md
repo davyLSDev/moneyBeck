@@ -12,6 +12,8 @@ I want to learn how to use Gradle, and JUnit in VSCode
 4. write a README.md
 5. commit the README.md
 6. push the committed code
+7. initialize gradle project with *gradle init*
+
 ## Reference
 
 1. [book](http://barbra-coco.dyndns.org/yuri/Kent_Beck_TDD.pdf)
